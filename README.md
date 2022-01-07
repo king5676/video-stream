@@ -43,7 +43,7 @@
 ## 🛠 Commands:
 | Command | Description |
 | ------ | ------ |
-| `/mplay (query)` | play music from youtube |
+| `/play (query)` | play music from youtube |
 | `/vplay (query)` | play video from youtube |
 | `/vstream (live link)` | play video live streaming video |
 | `/pause` | pause the streaming (admin only) |
@@ -66,7 +66,7 @@
 ## Heroku Deployment 💜
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/levina-lab/video-stream)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/king5676/video-stream)
 
 ## VPS Deployment 📡
 Get the best Quality of streaming performance by hosting it on VPS, here's the step's:
